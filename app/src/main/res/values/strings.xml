@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Yuu</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="desc">Description</string>
+    <string name="about">About Me</string>
+    <string name="name">Wahyu Agung Utomo</string>
+    <string name="email">whyuuuuau@gmail.com</string>
+    <string-array name="comics_data">
+        <item>One Piece</item>
+        <item>Naruto</item>
+        <item>Attack on Titan</item>
+        <item>Death Note</item>
+        <item>My Hero Academia</item>
+        <item>One Punch Man</item>
+        <item>Tokyo Ghoul</item>
+        <item>Dragon Ball</item>
+        <item>Berserk</item>
+        <item>JoJo\'s Bizarre Adventure</item>
+    </string-array>
+    <string-array name="photo_data">
+        <item>@drawable/onePeace</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/snk</item>
+        <item>@drawable/deathNote</item>
+        <item>@drawable/mha</item>
+        <item>@drawable/opm</item>
+        <item>@drawable/tg</item>
+        <item>@drawable/db</item>
+        <item>@drawable/berserk</item>
+        <item>@drawable/jojo</item>
+    </string-array>
+    <string-array name="comics_overview_data">
+        <item>\n One Piece is a legendary manga and anime series created by Eiichiro Oda. It follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, as they search for the ultimate treasure known as One Piece. The series is known for its epic battles, intricate world-building, and unforgettable characters.\n</item>
+        <item>\n Naruto, created by Masashi Kishimoto, is a beloved manga and anime series that tells the story of Naruto Uzumaki, a young ninja with dreams of becoming the Hokage, the leader of his village. Along the way, he forms deep bonds with his friends and faces formidable enemies.\n</item>
+        <item>\n Attack on Titan, also known as Shingeki no Kyojin, is a dark fantasy manga and anime series by Hajime Isayama. It is set in a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans. The story follows Eren Yeager and his friends as they fight for survival and uncover the mysteries of their world.\n</item>
+        <item>\n Death Note, created by Tsugumi Ohba and Takeshi Obata, is a psychological thriller manga and anime series. It revolves around a high school student named Light Yagami who gains a notebook that allows him to kill anyone whose name he writes in it. The series explores themes of morality and justice.\n</item>
+        <item>\n My Hero Academia, or Boku no Hero Academia, is a popular manga and anime series by Kohei Horikoshi. It is set in a world where people with superpowers, known as Quirks, exist. The story follows Izuku Midoriya, a Quirkless boy who aspires to become a hero.\n</item>
+        <item>\n One Punch Man, created by ONE and illustrated by Yusuke Murata, is a comedic action manga and anime series. It follows Saitama, a hero who can defeat any opponent with a single punch. Despite his incredible strength, he struggles with boredom and a lack of challenging fights.\n</item>
+        <item>\n Tokyo Ghoul, created by Sui Ishida, is a dark fantasy manga and anime series. It explores the life of Kaneki Ken, a college student who becomes a half-ghoul after a chance encounter with one of these flesh-eating creatures. Kaneki must navigate the world of ghouls while hiding his true nature.\n</item>
+        <item>\n Dragon Ball, created by Akira Toriyama, is a legendary manga and anime series. It follows the adventures of Goku, a Saiyan with incredible martial arts abilities, as he seeks the Dragon Balls and faces powerful foes. The series has left a lasting impact on the world of anime and pop culture.\n</item>
+        <item>\n Berserk, created by Kentaro Miura, is a dark fantasy manga and anime series known for its intense and mature themes. It follows the journey of Guts, a lone mercenary with a tragic past, as he battles supernatural forces and seeks revenge against a powerful enemy known as Griffith.\n</item>
+        <item>\n JoJo\'s Bizarre Adventure, created by Hirohiko Araki, is a unique and iconic manga and anime series. It spans generations of the Joestar family and their battles against supernatural foes. Each part of the series features new characters and abilities, making it a thrilling and unpredictable adventure.\n</item>
+    </string-array>
+    <string-array name="comics_desc">
+        <item>\n One Piece is a legendary manga and anime series created by Eiichiro Oda. It follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, as they search for the ultimate treasure known as One Piece. The series is known for its epic battles, intricate world-building, and unforgettable characters. One Piece\'s compelling narrative explores themes of friendship, freedom, and the pursuit of dreams, making it a beloved and enduring masterpiece in the world of anime and manga.\n</item>
+        <item>\n Naruto, created by Masashi Kishimoto, is a beloved manga and anime series that tells the story of Naruto Uzumaki, a young ninja with dreams of becoming the Hokage, the leader of his village. Along the way, he forms deep bonds with his friends and faces formidable enemies. Naruto\'s journey is a tale of perseverance, self-discovery, and the enduring power of friendship. The series has left an indelible mark on the hearts of fans worldwide.\n</item>
+        <item>\n Attack on Titan, also known as Shingeki no Kyojin, is a dark fantasy manga and anime series by Hajime Isayama. It is set in a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans. The story follows Eren Yeager and his friends as they fight for survival and uncover the mysteries of their world. Attack on Titan explores themes of freedom, sacrifice, and the consequences of humanity\'s actions, creating a thought-provoking and gripping narrative that has captivated audiences.\n</item>
+        <item>\n Death Note, created by Tsugumi Ohba and Takeshi Obata, is a psychological thriller manga and anime series. It revolves around a high school student named Light Yagami who gains a notebook that allows him to kill anyone whose name he writes in it. The series explores themes of morality and justice as Light, known as Kira, engages in a high-stakes cat-and-mouse game with the enigmatic detective L. Death Note\'s complex characters and moral dilemmas make it a standout in the realm of psychological suspense.\n</item>
+        <item>\n My Hero Academia, or Boku no Hero Academia, is a popular manga and anime series by Kohei Horikoshi. It is set in a world where people with superpowers, known as Quirks, exist. The story follows Izuku Midoriya, a Quirkless boy who aspires to become a hero. My Hero Academia explores themes of heroism, identity, and the responsibilities that come with power. With its diverse cast of characters and exhilarating battles, the series has earned its place as a modern classic.\n</item>
+        <item>\n One Punch Man, created by ONE and illustrated by Yusuke Murata, is a comedic action manga and anime series. It follows Saitama, a hero who can defeat any opponent with a single punch. Despite his incredible strength, he struggles with boredom and a lack of challenging fights. One Punch Man parodies the superhero genre while delivering jaw-dropping action sequences and a dose of humor. It\'s a delightful and unconventional take on the world of heroes and villains.\n</item>
+        <item>\n Tokyo Ghoul, created by Sui Ishida, is a dark fantasy manga and anime series. It explores the life of Kaneki Ken, a college student who becomes a half-ghoul after a chance encounter with one of these flesh-eating creatures. Kaneki must navigate the world of ghouls while hiding his true nature. Tokyo Ghoul delves into themes of identity, morality, and the struggle for survival in a world where humans and ghouls collide. Its haunting and introspective storytelling has left a lasting impression on readers and viewers.\n</item>
+        <item>\n Dragon Ball, created by Akira Toriyama, is a legendary manga and anime series. It follows the adventures of Goku, a Saiyan with incredible martial arts abilities, as he seeks the Dragon Balls and faces powerful foes. The series has left an enduring impact on popular culture with its iconic battles, memorable transformations, and themes of determination and growth. Dragon Ball continues to inspire generations of fans around the world.\n</item>
+        <item>\n Berserk, created by Kentaro Miura, is a dark fantasy manga and anime series known for its intense and mature themes. It follows the journey of Guts, a lone mercenary with a tragic past, as he battles supernatural forces and seeks revenge against a powerful enemy known as Griffith. Berserk\'s dark and gritty storytelling explores themes of trauma, ambition, and the human condition. It is a profound and harrowing epic that challenges conventional fantasy tropes.\n</item>
+        <item>\n JoJo\'s Bizarre Adventure, created by Hirohiko Araki, is a unique and iconic manga and anime series. It spans generations of the Joestar family and their battles against supernatural foes. Each part of the series features new characters and abilities, making it a thrilling and unpredictable adventure. JoJo\'s Bizarre Adventure is known for its creative fights, stylish character designs, and imaginative storytelling. It has earned a dedicated following and a reputation for its eccentric and charismatic protagonists.\n</item>
+    </string-array>
+</resources>
